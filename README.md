@@ -11,3 +11,4 @@ The app is meant for stuff like learning vocabulary of different languages.
      height="80">](https://f-droid.org/packages/com.quchen.flashcard/)
 
 [Or get the latest APK directly from the Github repo](app/release/app-release.apk)
+# flashcard
